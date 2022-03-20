@@ -22,6 +22,11 @@
 !Annoying Sites ====================
 ||tiktok.com^
 
+!DraggieList Addons ====================
+||tracking.epicgames.com^
+
+
+
 !Ads ====================
 
 ! Google Ads
