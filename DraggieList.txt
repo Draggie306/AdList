@@ -27,7 +27,8 @@
 !DraggieList Addons ====================
 ||tracking.epicgames.com^
 ||signal1domain.com^
-
+||3001.scriptcdn.net^
+||www.pagespeed-mod.com/v1^
 
 !Ads ====================
 
