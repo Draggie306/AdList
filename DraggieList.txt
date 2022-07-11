@@ -27,8 +27,12 @@
 !DraggieList Addons ====================
 ||tracking.epicgames.com^
 ||signal1domain.com^
-||3001.scriptcdn.net^
 ||www.pagespeed-mod.com/v1^
+||3001.scriptcdn.net^
+||https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
+||api.twitter.com/*/client_event.json
+||api.twitter.com/*/update_subscriptions
+||twitter.com/*/promoted_content/log.json
 
 !Ads ====================
 
@@ -59,6 +63,7 @@
 ||assoc-amazon.com^
 
 !#Analytics ====================
+
 ! Yahoo
 ||ads.yahoo.com^
 ||adserver.yahoo.com^
