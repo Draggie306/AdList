@@ -20,9 +20,8 @@
 
 ! Start
 !Annoying Sites ====================
-||tiktok.com^
-||vm.tiktok.com^
-||cdn.tiktok.com^
+*.tiktok.com*
+||*.tiktok.com*
 
 !DraggieList Addons ====================
 ||tracking.epicgames.com^
