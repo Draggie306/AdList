@@ -30,9 +30,10 @@
 ||3001.scriptcdn.net^
 ||https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
 ||api.twitter.com^
-api.twitter.com/*
+api.twitter.com
 https://twitter.com/i/api*
 https://api.twitter.com/1.1/jot/client_event.json^
+api.twitter.com/1.1/jot
 https://api.twitter.com^
 www.wired.com###failsafe-clickthrough
 www.wired.com##.SocialIconsListItem-hYmGVl.IKDCa.social-icons__list-item.social-icons__list-item--bookmark.social-icons__list-item--has-background
@@ -41,7 +42,7 @@ www.wired.com##.VideoFigure-hZUgyy.eaBlEi
 
 
 ! Memrise
-
+api.analytics.memrise.com
 
 ! END OF DraggieList ADDONS ====================
 
