@@ -32,12 +32,11 @@
 ||api.twitter.com^
 api.twitter.com
 api.twitter.com/1.1/jot^
-https://api.twitter.com^
 www.wired.com###failsafe-clickthrough
 www.wired.com##.SocialIconsListItem-hYmGVl.IKDCa.social-icons__list-item.social-icons__list-item--bookmark.social-icons__list-item--has-background
 www.wired.com###\32 9b89a37-77a8-cffe-638f-278619c436bd > iframe
 www.wired.com##.VideoFigure-hZUgyy.eaBlEi
-
+api.twitter.com^
 
 ! Memrise
 api.analytics.memrise.com
