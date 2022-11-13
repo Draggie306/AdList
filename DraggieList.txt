@@ -31,9 +31,7 @@
 ||https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
 ||api.twitter.com^
 api.twitter.com
-api.twitter.com/1.1/jot*
-api.twitter.com/1.1/jot
-https://api.twitter.com^
+api.twitter.com/1.1/jot^
 www.wired.com###failsafe-clickthrough
 www.wired.com##.SocialIconsListItem-hYmGVl.IKDCa.social-icons__list-item.social-icons__list-item--bookmark.social-icons__list-item--has-background
 www.wired.com###\32 9b89a37-77a8-cffe-638f-278619c436bd > iframe
