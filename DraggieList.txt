@@ -23,21 +23,27 @@
 *.tiktok.com*
 ||*.tiktok.com*
 
-!DraggieList Addons ====================
+! DraggieList Addons ====================
 ||tracking.epicgames.com^
 ||signal1domain.com^
 ||www.pagespeed-mod.com/v1^
 ||3001.scriptcdn.net^
 ||https://www.gstatic.com/feedback/js/help/prod/service/lazy.min.js
 ||api.twitter.com^
-api.analytics.memrise.com
 api.twitter.com/*
+https://twitter.com/i/api*
+https://api.twitter.com/1.1/jot/client_event.json^
 https://api.twitter.com^
 www.wired.com###failsafe-clickthrough
 www.wired.com##.SocialIconsListItem-hYmGVl.IKDCa.social-icons__list-item.social-icons__list-item--bookmark.social-icons__list-item--has-background
 www.wired.com###\32 9b89a37-77a8-cffe-638f-278619c436bd > iframe
 www.wired.com##.VideoFigure-hZUgyy.eaBlEi
 
+
+! Memrise
+
+
+! END OF DraggieList ADDONS ====================
 
 !Ads ====================
 
