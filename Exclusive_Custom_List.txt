@@ -13,9 +13,11 @@ https://lf16-tiktok-web.ttwstatic.com
 
 *tiktok-common.ttwstatic.com*
 
-tiktokcdn.com*
+*tiktokcdn.com*
 
-bytedapm.com
+*bytedapm.com*
+
+https://www.youtube.com/api/stats/watchtime
 
 ! EpicGames ====================
 
