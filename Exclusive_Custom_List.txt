@@ -24,6 +24,11 @@ https://www.youtube.com/api/stats/watchtime
 https://tracking.epicgames.com/
 
 ! Memrise 
+
+https://api.analytics.memrise.com/v1/i
+https://api.analytics.memrise.com/v1/t
+https://api.analytics.memrise.com/v1/p
+
 api.analytics.memrise.com
 
 https://api.analytics.memrise.com/v1
