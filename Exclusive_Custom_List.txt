@@ -6,7 +6,8 @@
  Start
 !Annoying Sites ====================
 *tiktok.com*
-
+https://lf16-tiktok-web.ttwstatic.com
+*tiktok-common.ttwstatic.com*
 
 ! DraggieList Addons ====================
 https://tracking.epicgames.com/
