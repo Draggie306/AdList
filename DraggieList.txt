@@ -35,6 +35,13 @@
 ! Memrise
 api.analytics.memrise.com
 
+https://api.analytics.memrise.com/v1
+
+https://www.google-analytics.com/analytics.js
+
+https://evs.analytics.memrise.com/
+
+
 ! END OF DraggieList ADDONS ====================
 
 !Ads ====================
