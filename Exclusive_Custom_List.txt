@@ -5,14 +5,23 @@
 
  Start
 !Annoying Sites ====================
+
+! No TikTok ====================
 *tiktok.com*
+
 https://lf16-tiktok-web.ttwstatic.com
+
 *tiktok-common.ttwstatic.com*
 
-! DraggieList Addons ====================
+tiktokcdn.com*
+
+bytedapm.com
+
+! EpicGames ====================
+
 https://tracking.epicgames.com/
 
-! Memrise
+! Memrise 
 api.analytics.memrise.com
 
 https://api.analytics.memrise.com/v1
