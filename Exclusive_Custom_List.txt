@@ -8,16 +8,15 @@
 
 ! No TikTok ====================
 *tiktok.com*
-
 https://lf16-tiktok-web.ttwstatic.com
-
 *tiktok-common.ttwstatic.com*
-
 *tiktokcdn.com*
-
 *bytedapm.com*
 
-https://www.youtube.com/api/stats/watchtime
+! Youtube WatchStats
+! Note: this can be optional. I don't recommend it.
+
+! https://www.youtube.com/api/stats/watchtime
 
 ! EpicGames ====================
 
@@ -35,7 +34,7 @@ https://evs.analytics.memrise.com/
 
 ! GoogleAnalytics
 https://www.google-analytics.com/analytics.js
-
+*googlesyndication.com
 
 ! Random Found Analytics Engines
 
