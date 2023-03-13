@@ -34,7 +34,7 @@ https://evs.analytics.memrise.com/
 
 ! GoogleAnalytics
 https://www.google-analytics.com/analytics.js
-*googlesyndication.com
+*googlesyndication.com/*
 
 ! Random Found Analytics Engines
 
